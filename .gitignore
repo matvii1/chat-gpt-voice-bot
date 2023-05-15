@@ -1,0 +1,5 @@
+.idea
+node-modules
+config/default.json
+config/production.json
+.vscode
